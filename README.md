@@ -3,7 +3,7 @@
 :eyes: My areas of interest:
 
 * Manual testing: functional, non-functional, modifications related testing.
-* Beginner in automation testing: java, selenium.
+* Beginner in automation testing: python, selenium.
 
 :mailbox: You can reach me via:
 
