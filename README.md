@@ -2,8 +2,8 @@
 
 :eyes: My areas of interest:
 
-* Manual testing: functional, non-functional, modifications related testing.
-* Beginner in automation testing: python.
+* Manual testing.
+* Automation testing: python.
 
 :mailbox: You can reach me via:
 
